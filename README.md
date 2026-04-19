@@ -1,5 +1,4 @@
-# Virtusa_Usecases
-# Virtusa Use Case Assignments
+
 This repository contains my practice assignments 
 It includes:
 - Java Use Case
